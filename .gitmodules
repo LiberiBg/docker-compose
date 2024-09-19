@@ -1,0 +1,9 @@
+[submodule "traefik_service"]
+	path = traefik_service
+	url = https://github.com/LiberiBg/traefik_service.git
+[submodule "freshrss_service"]
+	path = freshrss_service
+	url = https://github.com/LiberiBg/freshrss_service.git
+[submodule "linkwarden_service"]
+	path = linkwarden_service
+	url = https://github.com/LiberiBg/linkwarden_service.git
